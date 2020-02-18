@@ -1,0 +1,144 @@
+patlama.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+running
+  rotate: false
+  xy: 336, 0
+  size: 84, 105
+  orig: 84, 105
+  offset: 0, 0
+  index: 4
+running
+  rotate: false
+  xy: 252, 0
+  size: 84, 105
+  orig: 84, 105
+  offset: 0, 0
+  index: 3
+running
+  rotate: false
+  xy: 168, 0
+  size: 84, 105
+  orig: 84, 105
+  offset: 0, 0
+  index: 2
+running
+  rotate: false
+  xy: 84, 0
+  size: 84, 105
+  orig: 84, 105
+  offset: 0, 0
+  index: 1
+running
+  rotate: false
+  xy: 0, 0
+  size: 84, 105
+  orig: 84, 105
+  offset: 0, 0
+  index: 0
+running
+  rotate: false
+  xy: 336, 105
+  size: 84, 105
+  orig: 84, 105
+  offset: 0, 0
+  index: 9
+running
+  rotate: false
+  xy: 252, 105
+  size: 84, 105
+  orig: 84, 105
+  offset: 0, 0
+  index: 8
+running
+  rotate: false
+  xy: 168, 105
+  size: 84, 105
+  orig: 84, 105
+  offset: 0, 0
+  index: 7
+running
+  rotate: false
+  xy: 84, 105
+  size: 84, 105
+  orig: 84, 105
+  offset: 0, 0
+  index: 6
+running
+  rotate: false
+  xy: 0, 105
+  size: 84, 105
+  orig: 84, 105
+  offset: 0, 0
+  index: 5
+running
+  rotate: false
+  xy: 336, 210
+  size: 84, 105
+  orig: 84, 105
+  offset: 0, 0
+  index: 14
+running
+  rotate: false
+  xy: 252, 210
+  size: 84, 105
+  orig: 84, 105
+  offset: 0, 0
+  index: 13
+running
+  rotate: false
+  xy: 168, 210
+  size: 84, 105
+  orig: 84, 105
+  offset: 0, 0
+  index: 12
+running
+  rotate: false
+  xy: 84, 210
+  size: 84, 105
+  orig: 84, 105
+  offset: 0, 0
+  index: 11
+running
+  rotate: false
+  xy: 0, 210
+  size: 84, 105
+  orig: 84, 105
+  offset: 0, 0
+  index: 10
+running
+  rotate: false
+  xy: 336, 315
+  size: 84, 105
+  orig: 84, 105
+  offset: 0, 0
+  index: 19
+running
+  rotate: false
+  xy: 252, 315
+  size: 84, 105
+  orig: 84, 105
+  offset: 0, 0
+  index: 18
+running
+  rotate: false
+  xy: 168, 315
+  size: 84, 105
+  orig: 84, 105
+  offset: 0, 0
+  index: 17
+running
+  rotate: false
+  xy: 84, 315
+  size: 84, 105
+  orig: 84, 105
+  offset: 0, 0
+  index: 16
+running
+  rotate: false
+  xy: 0, 315
+  size: 84, 105
+  orig: 84, 105
+  offset: 0, 0
+  index: 15
